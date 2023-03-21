@@ -7,15 +7,6 @@ def proc1():
     a = int(input())
     if a in s:
         print("Вы угадали число!")
-    elif a in s:
-        print("Вы угадали число!")
-    elif a in s:
-        print("Вы угадали число!")
-    elif a in s:
-        print("Вы угадали число!")
-    elif a in s:
-        print("Вы угадали число!")
-    else:
         print("Вы не угадали число")
         print("Список загаданных чисел.")
         print(s)
